@@ -1,0 +1,5 @@
+{
+  "name": "News Space",
+  "description": "A space exploration news aggregator featuring updates from NASA and ESA, replicated from a design mockup with AI-powered live updates.",
+  "requestFramePermissions": []
+}
